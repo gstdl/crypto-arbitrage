@@ -1,0 +1,21 @@
+---
+luno:
+  key_id: "your key ID"
+  secret: "your secret"
+  assets:
+    XBT:
+      ticker: "BTC"
+      spot_wallet_address: "your BTC spot address"
+    threshold: 0.0001
+    ETH:
+      ticker: "ETH"
+      spot_wallet_address: "your ETH spot address"
+      threshold: 0.001
+    IDR:
+      ticker: "IDR"
+      spot_wallet_address: "your IDR spot address"
+      threshold: 100
+    USDC:
+      ticker: "USDC"
+      spot_wallet_address: "your USDC spot address"
+      threshold: 0.1

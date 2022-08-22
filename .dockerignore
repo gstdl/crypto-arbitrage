@@ -1,0 +1,8 @@
+.env
+
+bin/
+vendor/
+go.mod
+go.sum
+
+internal/config/production
